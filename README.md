@@ -31,3 +31,5 @@ https://developer.nvidia.com/unlocking-gpu-intrinsics-hlsl
 and: 
 
 https://developer.nvidia.com/reading-between-threads-shader-intrinsics
+
+# P.S. nvapi library got from here: https://developer.nvidia.com/gameworksdownload#?search=nvapi
