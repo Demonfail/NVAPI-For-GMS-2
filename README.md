@@ -33,3 +33,5 @@ and:
 https://developer.nvidia.com/reading-between-threads-shader-intrinsics
 
 # P.S. nvapi library got from here: https://developer.nvidia.com/gameworksdownload#?search=nvapi
+# Why you just put nvapi?
+I edited it a little bit, so each file where was #include "...h" i turned it into #include "..\nvapi\...h"
